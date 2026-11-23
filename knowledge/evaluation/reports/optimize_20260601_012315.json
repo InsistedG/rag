@@ -1,0 +1,215 @@
+{
+  "timestamp": "2026-06-01T01:23:15.864200",
+  "testset": "knowledge/evaluation/data/testset_opt_5.json",
+  "method": "random",
+  "target_metric": "faithfulness",
+  "num_trials": 20,
+  "best_params": {
+    "rrf_k": 60,
+    "rrf_kg_weight": 1.0,
+    "rerank_max_top_k": 10
+  },
+  "best_score": 0.9243,
+  "all_trials": [
+    {
+      "trial": 12,
+      "params": {
+        "rrf_k": 60,
+        "rrf_kg_weight": 1.0,
+        "rerank_max_top_k": 10
+      },
+      "score": 0.9243,
+      "elapsed_s": 167.7
+    },
+    {
+      "trial": 7,
+      "params": {
+        "rrf_k": 100,
+        "rrf_kg_weight": 1.0,
+        "rerank_max_top_k": 8
+      },
+      "score": 0.8629,
+      "elapsed_s": 161.6
+    },
+    {
+      "trial": 4,
+      "params": {
+        "rrf_k": 60,
+        "rrf_kg_weight": 0.7,
+        "rerank_max_top_k": 15
+      },
+      "score": 0.7913,
+      "elapsed_s": 170.9
+    },
+    {
+      "trial": 10,
+      "params": {
+        "rrf_k": 60,
+        "rrf_kg_weight": 1.0,
+        "rerank_max_top_k": 8
+      },
+      "score": 0.7804,
+      "elapsed_s": 161.4
+    },
+    {
+      "trial": 9,
+      "params": {
+        "rrf_k": 100,
+        "rrf_kg_weight": 1.0,
+        "rerank_max_top_k": 15
+      },
+      "score": 0.7766,
+      "elapsed_s": 167.6
+    },
+    {
+      "trial": 17,
+      "params": {
+        "rrf_k": 60,
+        "rrf_kg_weight": 0.5,
+        "rerank_max_top_k": 15
+      },
+      "score": 0.7545,
+      "elapsed_s": 154.2
+    },
+    {
+      "trial": 8,
+      "params": {
+        "rrf_k": 30,
+        "rrf_kg_weight": 1.0,
+        "rerank_max_top_k": 5
+      },
+      "score": 0.7508,
+      "elapsed_s": 147.2
+    },
+    {
+      "trial": 20,
+      "params": {
+        "rrf_k": 30,
+        "rrf_kg_weight": 0.5,
+        "rerank_max_top_k": 5
+      },
+      "score": 0.75,
+      "elapsed_s": 141.0
+    },
+    {
+      "trial": 1,
+      "params": {
+        "rrf_k": 60,
+        "rrf_kg_weight": 0.5,
+        "rerank_max_top_k": 8
+      },
+      "score": 0.7243,
+      "elapsed_s": 193.2
+    },
+    {
+      "trial": 6,
+      "params": {
+        "rrf_k": 60,
+        "rrf_kg_weight": 1.0,
+        "rerank_max_top_k": 5
+      },
+      "score": 0.7125,
+      "elapsed_s": 149.1
+    },
+    {
+      "trial": 2,
+      "params": {
+        "rrf_k": 30,
+        "rrf_kg_weight": 0.7,
+        "rerank_max_top_k": 15
+      },
+      "score": 0.7104,
+      "elapsed_s": 161.2
+    },
+    {
+      "trial": 5,
+      "params": {
+        "rrf_k": 60,
+        "rrf_kg_weight": 1.0,
+        "rerank_max_top_k": 15
+      },
+      "score": 0.7104,
+      "elapsed_s": 164.0
+    },
+    {
+      "trial": 3,
+      "params": {
+        "rrf_k": 100,
+        "rrf_kg_weight": 0.5,
+        "rerank_max_top_k": 10
+      },
+      "score": 0.6976,
+      "elapsed_s": 161.7
+    },
+    {
+      "trial": 16,
+      "params": {
+        "rrf_k": 30,
+        "rrf_kg_weight": 1.0,
+        "rerank_max_top_k": 10
+      },
+      "score": 0.6674,
+      "elapsed_s": 164.3
+    },
+    {
+      "trial": 14,
+      "params": {
+        "rrf_k": 100,
+        "rrf_kg_weight": 1.0,
+        "rerank_max_top_k": 10
+      },
+      "score": 0.661,
+      "elapsed_s": 171.0
+    },
+    {
+      "trial": 11,
+      "params": {
+        "rrf_k": 100,
+        "rrf_kg_weight": 0.5,
+        "rerank_max_top_k": 5
+      },
+      "score": 0.649,
+      "elapsed_s": 146.7
+    },
+    {
+      "trial": 18,
+      "params": {
+        "rrf_k": 30,
+        "rrf_kg_weight": 0.7,
+        "rerank_max_top_k": 5
+      },
+      "score": 0.6261,
+      "elapsed_s": 148.8
+    },
+    {
+      "trial": 19,
+      "params": {
+        "rrf_k": 60,
+        "rrf_kg_weight": 0.7,
+        "rerank_max_top_k": 10
+      },
+      "score": 0.6167,
+      "elapsed_s": 159.2
+    },
+    {
+      "trial": 15,
+      "params": {
+        "rrf_k": 60,
+        "rrf_kg_weight": 0.5,
+        "rerank_max_top_k": 5
+      },
+      "score": 0.5687,
+      "elapsed_s": 158.2
+    },
+    {
+      "trial": 13,
+      "params": {
+        "rrf_k": 60,
+        "rrf_kg_weight": 0.7,
+        "rerank_max_top_k": 5
+      },
+      "score": 0.5463,
+      "elapsed_s": 160.5
+    }
+  ]
+}

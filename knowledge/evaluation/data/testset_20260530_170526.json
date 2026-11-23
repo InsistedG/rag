@@ -1,0 +1,379 @@
+[
+  {
+    "query_id": "q0001",
+    "query": "RS PRO RS-12 万用表在测量直流电压时，量程为20V的分辨率和精确度是多少？",
+    "reference": "分辨率：0.01V；精确度：±(0.5% reading + 2 digits)。",
+    "item_names": [
+      "RS PRO RS-12 万用表"
+    ],
+    "expected_chunk_ids": [
+      466632144695595275
+    ],
+    "source": "llm",
+    "source_chunk_title": "# 功能符号指示"
+  },
+  {
+    "query_id": "q0002",
+    "query": "华为显示器 B3-243H 在雷雨天气下使用是否安全？",
+    "reference": "请勿在雷雨天气使用本设备。雷雨天气可能导致设备故障或电击危险。",
+    "item_names": [
+      "华为显示器 B3-243H"
+    ],
+    "expected_chunk_ids": [
+      466632144695594965
+    ],
+    "source": "llm",
+    "source_chunk_title": "# 操作环境"
+  },
+  {
+    "query_id": "q0003",
+    "query": "HUAWEI MateBook B7-420 笔记本电脑的触摸板支持哪些手势操作？",
+    "reference": "HUAWEI MateBook B7-420 笔记本电脑的触摸板支持以下手势操作：单指点击（相当于单击鼠标左键）、单指双击（相当于双击鼠标左键）、单指移动（移动桌面上的光标）、左键单击（相当于单击鼠标左键）、右键单击（相当于单击鼠标右键）、双指点击（相当于单击鼠标右键）、双指上下滑动（滚动浏览屏幕或文档）、双指张开或闭合（浏览图片、网页等时，可以放大或缩小图片、网页等）、三指点击（使用搜索）、三指向上滑动（多任务视图）、三指向下滑动（显示桌面）。",
+    "item_names": [
+      "HUAWEI MateBook B7-420 笔记本电脑"
+    ],
+    "expected_chunk_ids": [
+      466632144695595798
+    ],
+    "source": "llm",
+    "source_chunk_title": "# 常见触摸板手势-1"
+  },
+  {
+    "query_id": "q0004",
+    "query": "HUAWEI MateBook B5-440 笔记本电脑在雷雨天气下使用是否安全？",
+    "reference": "请勿在雷雨天气使用本设备。雷雨天气可能导致设备故障或电击危险。",
+    "item_names": [
+      "HUAWEI MateBook B5-440 笔记本电脑"
+    ],
+    "expected_chunk_ids": [
+      466632144695595447
+    ],
+    "source": "llm",
+    "source_chunk_title": "# 交通安全"
+  },
+  {
+    "query_id": "q0005",
+    "query": "HUAWEI MateBook B7-420 笔记本电脑如何通过扩展坞连接到电视或显示器进行投影显示？",
+    "reference": "首先，参照图示，通过扩展坞将计算机和电视、显示器或投影仪连接。接通电视、显示器或投影仪的电源并打开。在热键模式下，按 F8 键，或者点击 + P 打开投影界面，选择投影方式：仅在计算机显示桌面，外接设备屏幕不显示内容；在计算机和外接设备上都显示桌面；将计算机的桌面扩展到外接设备屏幕，可以在屏幕之间移动项目；只在外接设备上显示桌面，计算机屏幕不显示内容。",
+    "item_names": [
+      "HUAWEI MateBook B7-420 笔记本电脑"
+    ],
+    "expected_chunk_ids": [
+      466632144695595801
+    ],
+    "source": "llm",
+    "source_chunk_title": "# 连接到电视、显示器或投影仪"
+  },
+  {
+    "query_id": "q0006",
+    "query": "华为 B3-211H 显示器中是否含有铅(Pb)有害物质？",
+    "reference": "华为 B3-211H 显示器的电路板部件中，有害物质/铅(Pb)/×：×，表示该有害物质至少在该部件的某一均质材料中含量超出电器电子产品有害物质限制使用国家标准要求，且由于技术性或经济性等因素的局限，法律法规不规定其限量要求或放宽其限量要求的技术应用。",
+    "item_names": [
+      "华为 B3-211H 显示器"
+    ],
+    "expected_chunk_ids": [
+      466632144695596283
+    ],
+    "source": "llm",
+    "source_chunk_title": "# 设置显示器菜单：-11"
+  },
+  {
+    "query_id": "q0007",
+    "query": "Brother HAK 180 烫金机的电源电压和频率要求是什么？",
+    "reference": "本设备通过 AC 220 V-240 V 50/60 Hz 电源供电。",
+    "item_names": [
+      "Brother HAK 180 烫金机"
+    ],
+    "expected_chunk_ids": [
+      466632144695594812
+    ],
+    "source": "llm",
+    "source_chunk_title": "# 电源线"
+  },
+  {
+    "query_id": "q0008",
+    "query": "华为 B3-211H 显示器的菜单设置中，如何通过按键操作确认主菜单选项？",
+    "reference": "在华为 B3-211H 显示器的菜单设置中，通过按确认键（主菜单/说明/左移）来确认主菜单选项。",
+    "item_names": [
+      "华为 B3-211H 显示器"
+    ],
+    "expected_chunk_ids": [
+      466632144695596275
+    ],
+    "source": "llm",
+    "source_chunk_title": "# 设置显示器菜单：-3"
+  },
+  {
+    "query_id": "q0009",
+    "query": "华为 B3-211H 显示器的菜单显示时间可设置为多少秒？",
+    "reference": "华为 B3-211H 显示器的菜单显示时间可设置为 10-100 秒。",
+    "item_names": [
+      "华为 B3-211H 显示器"
+    ],
+    "expected_chunk_ids": [
+      466632144695596278
+    ],
+    "source": "llm",
+    "source_chunk_title": "# 设置显示器菜单：-6"
+  },
+  {
+    "query_id": "q0010",
+    "query": "HUAWEI MateBook B7-420 笔记本电脑如何将 F1、F2 等键设置为功能键使用？",
+    "reference": "若要将 F1、F2 等键作为功能键使用，您可以：按下 Fn 键，当 Fn 键指示灯亮起，表示已将 F1、F2 等键锁定为功能键模式。只需再次按 Fn 键，当 Fn 键指示灯熄灭，即可返回快捷键（热键）模式。或者前往华为电脑管家的设置中心，将键盘设置为功能键优先，设置后，F1、F2 等键将默认作为功能键使用。若要切换回快捷键模式，将键盘设置为热键优先即可。",
+    "item_names": [
+      "HUAWEI MateBook B7-420 笔记本电脑"
+    ],
+    "expected_chunk_ids": [
+      466632144695595797
+    ],
+    "source": "llm",
+    "source_chunk_title": "# 快捷键与功能键切换"
+  },
+  {
+    "query_id": "q0011",
+    "query": "华为 B3-211H 显示器的电源接口位于哪个位置？",
+    "reference": "华为 B3-211H 显示器的电源接口位于背面底部控制区，标号为10。",
+    "item_names": [
+      "华为 B3-211H 显示器"
+    ],
+    "expected_chunk_ids": [
+      466632144695596271
+    ],
+    "source": "llm",
+    "source_chunk_title": "# 用户指南"
+  },
+  {
+    "query_id": "q0012",
+    "query": "HUAWEI MateBook B5-440 笔记本电脑的蓝牙鼠标是否为标配配件？",
+    "reference": "蓝牙鼠标为可选配件，您可单独购买。",
+    "item_names": [
+      "HUAWEI MateBook B5-440 笔记本电脑"
+    ],
+    "expected_chunk_ids": [
+      466632144695595445
+    ],
+    "source": "llm",
+    "source_chunk_title": "# 了解蓝牙鼠标"
+  },
+  {
+    "query_id": "q0013",
+    "query": "华为显示器 B3-243H 的屏幕尺寸是多少？",
+    "reference": "文档内容中未提及华为显示器 B3-243H 的屏幕尺寸信息，无法提供答案。",
+    "item_names": [
+      "华为显示器 B3-243H"
+    ],
+    "expected_chunk_ids": [
+      466632144695594958
+    ],
+    "source": "llm",
+    "source_chunk_title": "# 配置 SSNB-24BZ-1"
+  },
+  {
+    "query_id": "q0014",
+    "query": "HUAWEI MateBook B5-440 笔记本电脑的电池安装方法是什么？",
+    "reference": "沿鼠标尾部标志打开上壳，按电池仓正负极(＋－)的标志安装一节 AA 电池，合上上壳，即可安装完成。",
+    "item_names": [
+      "HUAWEI MateBook B5-440 笔记本电脑"
+    ],
+    "expected_chunk_ids": [
+      466632144695595446
+    ],
+    "source": "llm",
+    "source_chunk_title": "# 安装电池"
+  },
+  {
+    "query_id": "q0015",
+    "query": "HUAWEI MateBook B5-440 笔记本电脑的触摸板支持哪些三指手势操作？",
+    "reference": "三指向下滑动：显示桌面；三指左右滑动：切换应用。",
+    "item_names": [
+      "HUAWEI MateBook B5-440 笔记本电脑"
+    ],
+    "expected_chunk_ids": [
+      466632144695595441
+    ],
+    "source": "llm",
+    "source_chunk_title": "# 触摸板-3"
+  },
+  {
+    "query_id": "q0016",
+    "query": "小米多功能网关的设备号（short_id）是什么？",
+    "reference": "小米多功能网关的设备号（short_id）是米家无线开关的设备号，具体数值需通过LumiScan扫描获取，文档中未直接提供固定值。",
+    "item_names": [
+      "小米多功能网关"
+    ],
+    "expected_chunk_ids": [
+      466649208331710134
+    ],
+    "source": "llm",
+    "source_chunk_title": "## 3.3.5米家无线开关属性"
+  },
+  {
+    "query_id": "q0017",
+    "query": "华为 B3-211H 显示器在浏览计算机中的图片时，应该选择哪个色彩模式？",
+    "reference": "浏览计算机中的图片时，建议选择 sRGB 色彩。",
+    "item_names": [
+      "华为 B3-211H 显示器"
+    ],
+    "expected_chunk_ids": [
+      466632144695596276
+    ],
+    "source": "llm",
+    "source_chunk_title": "# 设置显示器菜单：-4"
+  },
+  {
+    "query_id": "q0018",
+    "query": "HUAWEI MateBook B7-420 笔记本电脑在使用无线共享和蓝牙功能时，应该如何防止未授权访问？",
+    "reference": "在使用无线共享、蓝牙等业务时，请设定密码，防止未授权访问。不需要使用这些业务时，建议及时关闭。",
+    "item_names": [
+      "HUAWEI MateBook B7-420 笔记本电脑"
+    ],
+    "expected_chunk_ids": [
+      466632144695595808
+    ],
+    "source": "llm",
+    "source_chunk_title": "# 个人信息和数据安全"
+  },
+  {
+    "query_id": "q0019",
+    "query": "华为 B3-211H 显示器的节能模式（ECO Mode）开启后会有哪些影响？",
+    "reference": "开启节能模式后，亮度等选项将无法设置。",
+    "item_names": [
+      "华为 B3-211H 显示器"
+    ],
+    "expected_chunk_ids": [
+      466632144695596279
+    ],
+    "source": "llm",
+    "source_chunk_title": "# 设置显示器菜单：-7"
+  },
+  {
+    "query_id": "q0020",
+    "query": "Brother HAK 180 烫金机的主电路板中是否含有铅（Pb）？",
+    "reference": "Brother HAK 180 烫金机的主电路板中铅（Pb）的含量标记为“×”，表示该有害物质至少在该部件的某一均质材料中的含量超出GB/T 26572规定的限量要求。",
+    "item_names": [
+      "Brother HAK 180 烫金机"
+    ],
+    "expected_chunk_ids": [
+      466632144695594814
+    ],
+    "source": "llm",
+    "source_chunk_title": "# 设备和电源线"
+  },
+  {
+    "query_id": "q0021",
+    "query": "米家多功能网关在配置过程中需要满足哪些网络和扫描条件？",
+    "reference": "米家多功能网关在配置过程中需要满足以下条件：①绿米网关的局域网通讯要开启；②局域网需要有绿米网关在线；③LumiScan扫描时需要禁用其他无关网络；④配置工程需要根据LumiScan扫描到的具体信息进行配置。",
+    "item_names": [
+      "米家多功能网关"
+    ],
+    "expected_chunk_ids": [
+      466649208331710399
+    ],
+    "source": "llm",
+    "source_chunk_title": "## 4.4新建标签"
+  },
+  {
+    "query_id": "q0022",
+    "query": "华为 B3-211H 显示器的屏幕部件中是否含有铅(Pb)？",
+    "reference": "华为 B3-211H 显示器的屏幕部件中不含铅(Pb)，标记为×。",
+    "item_names": [
+      "华为 B3-211H 显示器"
+    ],
+    "expected_chunk_ids": [
+      466632144695596282
+    ],
+    "source": "llm",
+    "source_chunk_title": "# 设置显示器菜单：-10"
+  },
+  {
+    "query_id": "q0023",
+    "query": "华为 MateStation B515 在什么温度范围内可以正常使用？",
+    "reference": "请在温度 0℃～35℃ 范围内使用本设备，并在温度 -10℃～+45℃ 范围内存放设备及其配件。当环境温度过高或过低时，可能会引起设备故障。",
+    "item_names": [
+      "华为 MateStation B515"
+    ],
+    "expected_chunk_ids": [
+      466632144695596157
+    ],
+    "source": "llm",
+    "source_chunk_title": "# 操作环境"
+  },
+  {
+    "query_id": "q0024",
+    "query": "小米多功能网关支持哪些通信协议？",
+    "reference": "文档中未提及小米多功能网关支持的通信协议。",
+    "item_names": [
+      "小米多功能网关"
+    ],
+    "expected_chunk_ids": [
+      466649208331710131
+    ],
+    "source": "llm",
+    "source_chunk_title": "# 【操作说明】"
+  },
+  {
+    "query_id": "q0025",
+    "query": "HUAWEI MateBook B7-420 笔记本电脑的指纹电源键有什么功能？",
+    "reference": "录入指纹后，您只需使用已录入指纹的手指按一下电源键，即可同时实现开机、解锁，无需输入密码，快捷安全。",
+    "item_names": [
+      "HUAWEI MateBook B7-420 笔记本电脑"
+    ],
+    "expected_chunk_ids": [
+      466632144695595795
+    ],
+    "source": "llm",
+    "source_chunk_title": "# 用户指南"
+  },
+  {
+    "query_id": "q0027",
+    "query": "华为擎云B730的F10一键恢复出厂功能如何使用？",
+    "reference": "F10 一键恢复出厂 4",
+    "item_names": [
+      "华为擎云B730"
+    ],
+    "expected_chunk_ids": [
+      466649208331710233
+    ],
+    "source": "llm",
+    "source_chunk_title": "## 用户指南"
+  },
+  {
+    "query_id": "q0028",
+    "query": "米家多功能网关的局域网通信协议密码和MAC地址在哪里可以找到？",
+    "reference": "米家多功能网关的局域网通信协议密码和MAC地址可以在手机截图中查看，关键数据用红框标出，其中包含绿米网关的MAC地址及参数。",
+    "item_names": [
+      "米家多功能网关"
+    ],
+    "expected_chunk_ids": [
+      466649208331710398
+    ],
+    "source": "llm",
+    "source_chunk_title": "## 3.3.5米家无线开关属性"
+  },
+  {
+    "query_id": "q0029",
+    "query": "Brother HAK 180 烫金机的使用说明书可以在哪里下载？",
+    "reference": "有关使用本设备的更多信息，请参阅使用说明书，其可在兄弟 (中国)商业有限公司技术服务支持网站 http://www.95105369.com/Web/Manuals.aspx 上找到。建议您先通读使用说明书，再使用本设备。",
+    "item_names": [
+      "Brother HAK 180 烫金机"
+    ],
+    "expected_chunk_ids": [
+      466632144695594810
+    ],
+    "source": "llm",
+    "source_chunk_title": "# HAK 180 烫金机"
+  },
+  {
+    "query_id": "q0030",
+    "query": "HUAWEI MateBook B5-440 笔记本电脑的USB-C接口有哪些用途？",
+    "reference": "HUAWEI MateBook B5-440 笔记本电脑的USB-C接口可用于连接电源适配器给计算机充电，通过扩展坞连接显示器、投影仪等视频显示设备，以及连接手机、U盘等外接设备传输数据。",
+    "item_names": [
+      "HUAWEI MateBook B5-440 笔记本电脑"
+    ],
+    "expected_chunk_ids": [
+      466632144695595437
+    ],
+    "source": "llm",
+    "source_chunk_title": "# 用户指南"
+  }
+]

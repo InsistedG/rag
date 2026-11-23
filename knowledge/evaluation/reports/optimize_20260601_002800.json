@@ -1,0 +1,215 @@
+{
+  "timestamp": "2026-06-01T00:28:00.022294",
+  "testset": "knowledge/evaluation/data/testset_opt_5.json",
+  "method": "random",
+  "target_metric": "faithfulness",
+  "num_trials": 20,
+  "best_params": {
+    "rrf_k": 30,
+    "rrf_kg_weight": 0.5,
+    "rerank_max_top_k": 15
+  },
+  "best_score": 0.0,
+  "all_trials": [
+    {
+      "trial": 1,
+      "params": {
+        "rrf_k": 30,
+        "rrf_kg_weight": 0.5,
+        "rerank_max_top_k": 15
+      },
+      "score": 0.0,
+      "elapsed_s": 195.3
+    },
+    {
+      "trial": 2,
+      "params": {
+        "rrf_k": 30,
+        "rrf_kg_weight": 1.0,
+        "rerank_max_top_k": 8
+      },
+      "score": 0.0,
+      "elapsed_s": 170.4
+    },
+    {
+      "trial": 3,
+      "params": {
+        "rrf_k": 100,
+        "rrf_kg_weight": 1.0,
+        "rerank_max_top_k": 5
+      },
+      "score": 0.0,
+      "elapsed_s": 146.7
+    },
+    {
+      "trial": 4,
+      "params": {
+        "rrf_k": 100,
+        "rrf_kg_weight": 1.0,
+        "rerank_max_top_k": 10
+      },
+      "score": 0.0,
+      "elapsed_s": 152.2
+    },
+    {
+      "trial": 5,
+      "params": {
+        "rrf_k": 100,
+        "rrf_kg_weight": 1.0,
+        "rerank_max_top_k": 15
+      },
+      "score": 0.0,
+      "elapsed_s": 159.7
+    },
+    {
+      "trial": 6,
+      "params": {
+        "rrf_k": 30,
+        "rrf_kg_weight": 0.7,
+        "rerank_max_top_k": 10
+      },
+      "score": 0.0,
+      "elapsed_s": 155.7
+    },
+    {
+      "trial": 7,
+      "params": {
+        "rrf_k": 30,
+        "rrf_kg_weight": 0.7,
+        "rerank_max_top_k": 8
+      },
+      "score": 0.0,
+      "elapsed_s": 165.4
+    },
+    {
+      "trial": 8,
+      "params": {
+        "rrf_k": 60,
+        "rrf_kg_weight": 1.0,
+        "rerank_max_top_k": 5
+      },
+      "score": 0.0,
+      "elapsed_s": 146.8
+    },
+    {
+      "trial": 9,
+      "params": {
+        "rrf_k": 60,
+        "rrf_kg_weight": 0.7,
+        "rerank_max_top_k": 8
+      },
+      "score": 0.0,
+      "elapsed_s": 159.8
+    },
+    {
+      "trial": 10,
+      "params": {
+        "rrf_k": 30,
+        "rrf_kg_weight": 1.0,
+        "rerank_max_top_k": 10
+      },
+      "score": 0.0,
+      "elapsed_s": 159.6
+    },
+    {
+      "trial": 11,
+      "params": {
+        "rrf_k": 60,
+        "rrf_kg_weight": 0.7,
+        "rerank_max_top_k": 5
+      },
+      "score": 0.0,
+      "elapsed_s": 216.8
+    },
+    {
+      "trial": 12,
+      "params": {
+        "rrf_k": 60,
+        "rrf_kg_weight": 0.5,
+        "rerank_max_top_k": 5
+      },
+      "score": 0.0,
+      "elapsed_s": 154.4
+    },
+    {
+      "trial": 13,
+      "params": {
+        "rrf_k": 30,
+        "rrf_kg_weight": 0.5,
+        "rerank_max_top_k": 10
+      },
+      "score": 0.0,
+      "elapsed_s": 168.5
+    },
+    {
+      "trial": 14,
+      "params": {
+        "rrf_k": 100,
+        "rrf_kg_weight": 1.0,
+        "rerank_max_top_k": 8
+      },
+      "score": 0.0,
+      "elapsed_s": 175.8
+    },
+    {
+      "trial": 15,
+      "params": {
+        "rrf_k": 100,
+        "rrf_kg_weight": 0.5,
+        "rerank_max_top_k": 8
+      },
+      "score": 0.0,
+      "elapsed_s": 194.6
+    },
+    {
+      "trial": 16,
+      "params": {
+        "rrf_k": 60,
+        "rrf_kg_weight": 1.0,
+        "rerank_max_top_k": 15
+      },
+      "score": 0.0,
+      "elapsed_s": 179.2
+    },
+    {
+      "trial": 17,
+      "params": {
+        "rrf_k": 100,
+        "rrf_kg_weight": 0.7,
+        "rerank_max_top_k": 8
+      },
+      "score": 0.0,
+      "elapsed_s": 172.3
+    },
+    {
+      "trial": 18,
+      "params": {
+        "rrf_k": 60,
+        "rrf_kg_weight": 0.7,
+        "rerank_max_top_k": 15
+      },
+      "score": 0.0,
+      "elapsed_s": 180.8
+    },
+    {
+      "trial": 19,
+      "params": {
+        "rrf_k": 30,
+        "rrf_kg_weight": 0.7,
+        "rerank_max_top_k": 15
+      },
+      "score": 0.0,
+      "elapsed_s": 167.1
+    },
+    {
+      "trial": 20,
+      "params": {
+        "rrf_k": 30,
+        "rrf_kg_weight": 1.0,
+        "rerank_max_top_k": 15
+      },
+      "score": 0.0,
+      "elapsed_s": 168.6
+    }
+  ]
+}

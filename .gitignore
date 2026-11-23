@@ -1,0 +1,14 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.claude
+.env.*
+!.env.example
+.pytest_cache/
+.benchmarks/
+knowledge/temp_data/
+knowledge/processor/import_process/import_temp_dir/
+knowledge/processor/import_process/output_temp_dir/

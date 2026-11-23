@@ -1,0 +1,54 @@
+[
+  {
+    "query_id": "q0002",
+    "query": "华为 B3-211H 显示器的菜单显示时间可以设置为多少秒？",
+    "reference": "华为 B3-211H 显示器的菜单显示时间可设置为 10-100 秒。",
+    "item_names": [
+      "华为 B3-211H 显示器"
+    ],
+    "expected_chunk_ids": [
+      466632144695596278
+    ],
+    "source": "llm",
+    "source_chunk_title": "# 设置显示器菜单：-6"
+  },
+  {
+    "query_id": "q0003",
+    "query": "HUAWEI MateBook B7-420 笔记本电脑的指纹电源键有什么功能？",
+    "reference": "录入指纹后，您只需使用已录入指纹的手指按一下电源键，即可同时实现开机、解锁，无需输入密码，快捷安全。",
+    "item_names": [
+      "HUAWEI MateBook B7-420 笔记本电脑"
+    ],
+    "expected_chunk_ids": [
+      466632144695595795
+    ],
+    "source": "llm",
+    "source_chunk_title": "# 用户指南"
+  },
+  {
+    "query_id": "q0004",
+    "query": "如何开启小米多功能网关的局域网通信协议？",
+    "reference": "开启小米多功能网关局域网通信协议的步骤如下：①点击米家多功能网关进入米家多功能网关界面；②点击右上角的“..“进入设置界面；③点击“关于”进入关于设置界面；④一直点击空白处，大约连续点击5-10次会出现隐藏信息；⑤点击“局域网通信协议”进入局域网通信设置界面；⑥选择开启局域网通信协议，获取米家多功能网关的局域网通讯密码；⑦关于界面点击网关信息进入绿米网关信息查询界面。",
+    "item_names": [
+      "小米多功能网关"
+    ],
+    "expected_chunk_ids": [
+      466649208331710133
+    ],
+    "source": "llm",
+    "source_chunk_title": "## 2.2开启绿米网关局域网协议"
+  },
+  {
+    "query_id": "q0005",
+    "query": "华为显示器 B3-243H 的产品信息和使用说明可以在哪里查看？",
+    "reference": "更多信息请访问 https://consumer.huawei.com/cn/",
+    "item_names": [
+      "华为显示器 B3-243H"
+    ],
+    "expected_chunk_ids": [
+      466632144695594966
+    ],
+    "source": "llm",
+    "source_chunk_title": "# HDmI"
+  }
+]

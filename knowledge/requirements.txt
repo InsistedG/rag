@@ -1,0 +1,26 @@
+
+--extra-index-url https://download.pytorch.org/whl/cu120
+
+
+torch
+torchvision
+
+
+openai
+minio
+cos-python-sdk-v5
+requests
+ragas
+langchain-openai
+langgraph
+grandalf
+pymilvus[milvus_lite]
+pymilvus[model]
+sentence-transformers>=2.2.2
+neo4j
+pymongo
+fastapi
+uvicorn
+jinja2
+mineru[all]
+openai-agents
